@@ -4,6 +4,8 @@
 
 [설치 파일 다운로드](https://github.com/mindsurf0176/ddatzzi/releases/tag/v1.0.0)
 
+현재 버전은 **1.0.0 공개 테스트**입니다. Developer ID 서명과 Apple 공증을 마친 앱을 제공합니다. 실제 휠·트랙패드·재연결·잠자기·로그인 실행 및 Intel 실기기 확인은 진행 중입니다.
+
 ## 설치
 
 1. 릴리스에서 `Ddatzzi-1.0.0-universal.dmg`를 다운로드합니다.

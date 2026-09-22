@@ -1,19 +1,23 @@
 # 따찌 · Ddatzzi
 
+<img src="icon.png" alt="따찌의 미니멀한 땃쥐 아이콘" width="128" height="128">
+
 외부 마우스를 연결하면 휠의 위아래 스크롤 방향을 바꿔주는 macOS 메뉴 막대 앱입니다.
 
-[설치 파일 다운로드](https://github.com/mindsurf0176/ddatzzi/releases/tag/v1.0.0)
+[설치 파일 다운로드](https://github.com/mindsurf0176/ddatzzi/releases/tag/v1.0.1)
 
-현재 버전은 **1.0.0 공개 테스트**입니다. Developer ID 서명과 Apple 공증을 마친 앱을 제공합니다. 실제 휠·트랙패드·재연결·잠자기·로그인 실행 및 Intel 실기기 확인은 진행 중입니다.
+현재 버전은 **1.0.1 공개 테스트**입니다. 앱과 메뉴 막대에 미니멀한 땃쥐 아이콘을 사용합니다. Developer ID 서명과 Apple 공증을 마친 앱을 제공합니다. 실제 휠·트랙패드·재연결·잠자기·로그인 실행 및 Intel 실기기 확인은 진행 중입니다.
 
 ## 설치
 
-1. 릴리스에서 `Ddatzzi-1.0.0-universal.dmg`를 다운로드합니다.
+1. 릴리스에서 `Ddatzzi-1.0.1-universal.dmg`를 다운로드합니다.
 2. DMG를 열고 **Ddatzzi**를 **Applications**로 드래그합니다.
-3. 응용 프로그램에서 Ddatzzi를 실행합니다. Dock 대신 메뉴 막대에 마우스 아이콘이 나타납니다.
+3. 응용 프로그램에서 Ddatzzi를 실행합니다. Dock 대신 메뉴 막대에 땃쥐 아이콘이 나타납니다.
 4. 앱 안내에 따라 **시스템 설정 → 개인정보 보호 및 보안 → 손쉬운 사용**에서 Ddatzzi를 허용합니다.
 
 ZIP을 내려받았다면 압축을 풀고 Ddatzzi.app을 응용 프로그램 폴더로 옮겨 실행하세요.
+
+업데이트할 때는 실행 중인 따찌를 메뉴에서 종료한 뒤 새 앱으로 교체하세요.
 
 ## 사용
 
